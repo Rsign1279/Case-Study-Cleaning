@@ -1,0 +1,2 @@
+record_id,source_event_group_id,record_class,source_type,entity_name,state,individuals_affected,breach_submission_date,summary,severity_score
+6096174d-1676-4947-9ed6-87c9ff789635,f083b383-39f4-45fd-9c6a-216ba1fd5f8a,breach_filing,hhs_breach,"Change Healthcare, Inc.",MN,192700000,2024-07-19,,95
